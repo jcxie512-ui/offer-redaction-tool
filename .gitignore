@@ -1,0 +1,5 @@
+node_modules/
+*.traineddata
+test_b64.txt
+logo_b64.txt
+debug_boxes.html
